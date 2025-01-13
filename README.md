@@ -1,7 +1,6 @@
 
 # K8s-learn
 
-## Step 1: Clone the Repository
 ```bash
 git clone https://github.com/moizsheraz/K8s-learn
 cd microservices-app
