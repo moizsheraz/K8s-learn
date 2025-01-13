@@ -1,0 +1,15 @@
+# Python virtual environments
+/venv/
+/.venv/
+/env/
+/.venv/
+
+# Node.js modules
+/node_modules/
+
+# IDE files
+.idea/
+/.vscode/
+
+# Logs
+*.log
