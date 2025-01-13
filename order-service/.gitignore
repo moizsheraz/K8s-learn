@@ -1,23 +1,11 @@
-# Node.js
-/node_modules/
-
-# Python Virtual Environments
-/.venv/
+# Python virtual environments
 /venv/
+/.venv/
 /env/
 /.venv/
 
-# Docker related files
-**/docker-compose.override.yml
-**/Dockerfile
-**/docker-compose.yml
-**/.docker/
-
-# Kubernetes related files
-**/.kube/
-
-# macOS system files
-.DS_Store
+# Node.js modules
+/node_modules/
 
 # IDE files
 .idea/
